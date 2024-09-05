@@ -44,8 +44,8 @@ div#video iframe {
   margin-top: 530px;
   bottom: 65px;
   left: 100px;
-  width: 500px;
-  height:600px;
+  width: 480px;
+  height:640px;
   border-radius: 8%;  
 }
 
@@ -82,7 +82,7 @@ div#sea {
   height: 400px;
   left: 50%;
   margin-left: -150px;
-  bottom: 1700px;
+  bottom: 2000px;
   z-index: 10;
 }
 .giftbox > div {
